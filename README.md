@@ -74,7 +74,7 @@ The dataset contains ecommerce transaction records including:
 - Maharashtra generated the highest sales revenue.
 - Clothing category contributed the largest sales volume.
 - COD is the most preferred payment method.
-- August recorded the highest monthly profit.
+- November recorded the highest monthly profit.
 - Certain product sub-categories generated significantly higher profit margins.
 
 ---
