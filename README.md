@@ -118,5 +118,4 @@ The dataset contains ecommerce transaction records including:
 
 **Nandini Patil**
 
-Also visit my profile :
-LinkedIn: https://linkedin.com/in/nandinipatil4748
+Also visit my LinkedIn profile : https://linkedin.com/in/nandinipatil4748
